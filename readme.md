@@ -34,4 +34,4 @@ KLOTZ is a 34 key column-staggered split keyboard running [ZMK](https://zmk.dev/
 
 
 
-
+1
