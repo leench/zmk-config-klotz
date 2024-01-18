@@ -17,3 +17,14 @@ if SHIELD_KLOTZ_LEFT || SHIELD_KLOTZ_RIGHT
 
 endif # LEFT RIGHT
 
+
+
+if ZMK_BACKLIGHT
+
+config PWM
+    default y
+
+config LED_PWM
+    default y
+
+endif # ZMK_BACKLIGHT
